@@ -1,0 +1,13 @@
+# Install PyTorch FIRST (see README step 0.4), then: pip install -r requirements.txt
+# Keep these IDENTICAL on both PCs.
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.1
+scipy==1.13.1
+matplotlib==3.9.0
+pyarrow==16.1.0
+joblib==1.4.2
+psutil==6.0.0
+tqdm==4.66.4
+flwr[simulation]==1.11.1
+opacus==1.5.2
